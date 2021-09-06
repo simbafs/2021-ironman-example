@@ -4,3 +4,4 @@
 .cache
 .local
 .zcompdump
+.zsh_history

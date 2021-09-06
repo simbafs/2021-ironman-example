@@ -12,11 +12,13 @@
 ~h
 # 命令列 歷史記錄 (新到舊):
 :wq
-|2,0,1630894426,,"wq"
-:Wq
-|2,0,1630894125,,"Wq"
+|2,0,1630895683,,"wq"
 :q
-|2,0,1630894115,,"q"
+|2,0,1630895305,,"q"
+:Wq
+|2,0,1630894840,,"Wq"
+:Q
+|2,0,1630894822,,"Q"
 :q!
 |2,0,1630894112,,"q!"
 
@@ -29,89 +31,278 @@
 # Debug Line 歷史記錄 (新到舊):
 
 # 暫存器:
+""1	LINE	0
+	
+|3,1,1,1,1,0,1630895187,""
+"2	LINE	0
+	
+|3,0,2,1,1,0,1630895185,""
+"3	LINE	0
+	
+|3,0,3,1,1,0,1630895185,""
+"4	LINE	0
+	# Created by newuser for 5.8
+|3,0,4,1,1,0,1630895181,"# Created by newuser for 5.8"
 
 # 檔案標記:
-'0  5  0  ~/.gitconfig
-|4,48,5,0,1630894426,"~/.gitconfig"
-'1  2  24  ~/.gitignore
-|4,49,2,24,1630894163,"~/.gitignore"
-'2  1  3  ~/.gitignore
-|4,50,1,3,1630894126,"~/.gitignore"
-'3  1  3  ~/.gitignore
-|4,51,1,3,1630894126,"~/.gitignore"
-'4  1  0  ~/.gitignoew
-|4,52,1,0,1630894115,"~/.gitignoew"
-'5  1  0  ~/.gitignoew
-|4,53,1,0,1630894112,"~/.gitignoew"
+'0  2  0  ~/a
+|4,48,2,0,1630895683,"~/a"
+'1  1  0  ~/.zshrc
+|4,49,1,0,1630895305,"~/.zshrc"
+'2  1  0  ~/.zshrc
+|4,50,1,0,1630895191,"~/.zshrc"
+'3  1  0  /home/simba/.zshr
+|4,51,1,0,1630895171,"/home/simba/.zshr"
+'4  3  1  ~/.gitignore
+|4,52,3,1,1630894841,"~/.gitignore"
+'5  1  5  ~/.gitconfig
+|4,53,1,5,1630894823,"~/.gitconfig"
+'6  5  0  ~/.gitconfig
+|4,54,5,0,1630894426,"~/.gitconfig"
+'7  5  0  ~/.gitconfig
+|4,55,5,0,1630894426,"~/.gitconfig"
+'8  2  24  ~/.gitignore
+|4,56,2,24,1630894163,"~/.gitignore"
+'9  2  24  ~/.gitignore
+|4,57,2,24,1630894163,"~/.gitignore"
 
 # Jumplist (由新到舊):
+-'  2  0  ~/a
+|4,39,2,0,1630895683,"~/a"
+-'  1  0  ~/a
+|4,39,1,0,1630895679,"~/a"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1630895305,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1630895305,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1630895191,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1630895191,"~/.zshrc"
+-'  1  0  /home/simba/.zshr
+|4,39,1,0,1630895171,"/home/simba/.zshr"
+-'  1  0  /home/simba/.zshr
+|4,39,1,0,1630895171,"/home/simba/.zshr"
+-'  1  0  /home/simba/.zshr
+|4,39,1,0,1630895171,"/home/simba/.zshr"
+-'  1  0  /home/simba/.zshr
+|4,39,1,0,1630895171,"/home/simba/.zshr"
+-'  1  0  /home/simba/.zshr
+|4,39,1,0,1630895171,"/home/simba/.zshr"
+-'  1  0  /home/simba/.zshr
+|4,39,1,0,1630895171,"/home/simba/.zshr"
+-'  1  0  /home/simba/.zshr
+|4,39,1,0,1630895171,"/home/simba/.zshr"
+-'  1  0  /home/simba/.zshr
+|4,39,1,0,1630895171,"/home/simba/.zshr"
+-'  3  1  ~/.gitignore
+|4,39,3,1,1630894841,"~/.gitignore"
+-'  3  1  ~/.gitignore
+|4,39,3,1,1630894841,"~/.gitignore"
+-'  3  1  ~/.gitignore
+|4,39,3,1,1630894841,"~/.gitignore"
+-'  3  1  ~/.gitignore
+|4,39,3,1,1630894841,"~/.gitignore"
+-'  3  1  ~/.gitignore
+|4,39,3,1,1630894841,"~/.gitignore"
+-'  3  1  ~/.gitignore
+|4,39,3,1,1630894841,"~/.gitignore"
+-'  3  1  ~/.gitignore
+|4,39,3,1,1630894841,"~/.gitignore"
+-'  3  1  ~/.gitignore
+|4,39,3,1,1630894841,"~/.gitignore"
+-'  3  1  ~/.gitignore
+|4,39,3,1,1630894841,"~/.gitignore"
+-'  3  1  ~/.gitignore
+|4,39,3,1,1630894841,"~/.gitignore"
+-'  3  1  ~/.gitignore
+|4,39,3,1,1630894841,"~/.gitignore"
+-'  3  1  ~/.gitignore
+|4,39,3,1,1630894841,"~/.gitignore"
+-'  3  1  ~/.gitignore
+|4,39,3,1,1630894841,"~/.gitignore"
+-'  3  1  ~/.gitignore
+|4,39,3,1,1630894841,"~/.gitignore"
+-'  3  1  ~/.gitignore
+|4,39,3,1,1630894841,"~/.gitignore"
+-'  3  1  ~/.gitignore
+|4,39,3,1,1630894841,"~/.gitignore"
+-'  2  24  ~/.gitignore
+|4,39,2,24,1630894832,"~/.gitignore"
+-'  2  24  ~/.gitignore
+|4,39,2,24,1630894832,"~/.gitignore"
+-'  2  24  ~/.gitignore
+|4,39,2,24,1630894832,"~/.gitignore"
+-'  2  24  ~/.gitignore
+|4,39,2,24,1630894832,"~/.gitignore"
+-'  2  24  ~/.gitignore
+|4,39,2,24,1630894832,"~/.gitignore"
+-'  2  24  ~/.gitignore
+|4,39,2,24,1630894832,"~/.gitignore"
+-'  2  24  ~/.gitignore
+|4,39,2,24,1630894832,"~/.gitignore"
+-'  2  24  ~/.gitignore
+|4,39,2,24,1630894832,"~/.gitignore"
+-'  2  24  ~/.gitignore
+|4,39,2,24,1630894832,"~/.gitignore"
+-'  2  24  ~/.gitignore
+|4,39,2,24,1630894832,"~/.gitignore"
+-'  2  24  ~/.gitignore
+|4,39,2,24,1630894832,"~/.gitignore"
+-'  2  24  ~/.gitignore
+|4,39,2,24,1630894832,"~/.gitignore"
+-'  2  24  ~/.gitignore
+|4,39,2,24,1630894832,"~/.gitignore"
+-'  2  24  ~/.gitignore
+|4,39,2,24,1630894832,"~/.gitignore"
+-'  2  24  ~/.gitignore
+|4,39,2,24,1630894832,"~/.gitignore"
+-'  2  24  ~/.gitignore
+|4,39,2,24,1630894832,"~/.gitignore"
+-'  1  5  ~/.gitconfig
+|4,39,1,5,1630894823,"~/.gitconfig"
+-'  1  5  ~/.gitconfig
+|4,39,1,5,1630894823,"~/.gitconfig"
+-'  1  5  ~/.gitconfig
+|4,39,1,5,1630894823,"~/.gitconfig"
+-'  1  5  ~/.gitconfig
+|4,39,1,5,1630894823,"~/.gitconfig"
+-'  1  5  ~/.gitconfig
+|4,39,1,5,1630894823,"~/.gitconfig"
+-'  1  5  ~/.gitconfig
+|4,39,1,5,1630894823,"~/.gitconfig"
+-'  1  5  ~/.gitconfig
+|4,39,1,5,1630894823,"~/.gitconfig"
+-'  1  5  ~/.gitconfig
+|4,39,1,5,1630894823,"~/.gitconfig"
+-'  1  5  ~/.gitconfig
+|4,39,1,5,1630894823,"~/.gitconfig"
+-'  1  5  ~/.gitconfig
+|4,39,1,5,1630894823,"~/.gitconfig"
+-'  1  5  ~/.gitconfig
+|4,39,1,5,1630894823,"~/.gitconfig"
+-'  1  5  ~/.gitconfig
+|4,39,1,5,1630894823,"~/.gitconfig"
+-'  1  5  ~/.gitconfig
+|4,39,1,5,1630894823,"~/.gitconfig"
+-'  1  5  ~/.gitconfig
+|4,39,1,5,1630894823,"~/.gitconfig"
+-'  1  5  ~/.gitconfig
+|4,39,1,5,1630894823,"~/.gitconfig"
+-'  1  5  ~/.gitconfig
+|4,39,1,5,1630894823,"~/.gitconfig"
+-'  1  5  ~/.gitconfig
+|4,39,1,5,1630894823,"~/.gitconfig"
+-'  1  5  ~/.gitconfig
+|4,39,1,5,1630894823,"~/.gitconfig"
+-'  1  5  ~/.gitconfig
+|4,39,1,5,1630894823,"~/.gitconfig"
+-'  1  5  ~/.gitconfig
+|4,39,1,5,1630894823,"~/.gitconfig"
+-'  1  5  ~/.gitconfig
+|4,39,1,5,1630894823,"~/.gitconfig"
+-'  1  5  ~/.gitconfig
+|4,39,1,5,1630894823,"~/.gitconfig"
+-'  1  5  ~/.gitconfig
+|4,39,1,5,1630894823,"~/.gitconfig"
+-'  1  5  ~/.gitconfig
+|4,39,1,5,1630894823,"~/.gitconfig"
+-'  1  5  ~/.gitconfig
+|4,39,1,5,1630894823,"~/.gitconfig"
+-'  1  5  ~/.gitconfig
+|4,39,1,5,1630894823,"~/.gitconfig"
+-'  1  5  ~/.gitconfig
+|4,39,1,5,1630894823,"~/.gitconfig"
+-'  1  5  ~/.gitconfig
+|4,39,1,5,1630894823,"~/.gitconfig"
+-'  1  5  ~/.gitconfig
+|4,39,1,5,1630894823,"~/.gitconfig"
+-'  1  5  ~/.gitconfig
+|4,39,1,5,1630894823,"~/.gitconfig"
+-'  1  5  ~/.gitconfig
+|4,39,1,5,1630894823,"~/.gitconfig"
+-'  1  5  ~/.gitconfig
+|4,39,1,5,1630894823,"~/.gitconfig"
 -'  5  0  ~/.gitconfig
-|4,39,5,0,1630894426,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1630894400,"~/.gitconfig"
--'  2  24  ~/.gitignore
-|4,39,2,24,1630894163,"~/.gitignore"
--'  2  24  ~/.gitignore
-|4,39,2,24,1630894163,"~/.gitignore"
--'  1  3  ~/.gitignore
-|4,39,1,3,1630894161,"~/.gitignore"
--'  1  3  ~/.gitignore
-|4,39,1,3,1630894161,"~/.gitignore"
--'  1  3  ~/.gitignore
-|4,39,1,3,1630894126,"~/.gitignore"
--'  1  3  ~/.gitignore
-|4,39,1,3,1630894126,"~/.gitignore"
--'  1  0  ~/.gitignoew
-|4,39,1,0,1630894115,"~/.gitignoew"
--'  1  0  ~/.gitignoew
-|4,39,1,0,1630894115,"~/.gitignoew"
--'  1  0  ~/.gitignoew
-|4,39,1,0,1630894115,"~/.gitignoew"
--'  1  0  ~/.gitignoew
-|4,39,1,0,1630894115,"~/.gitignoew"
--'  1  0  ~/.gitignoew
-|4,39,1,0,1630894115,"~/.gitignoew"
--'  1  0  ~/.gitignoew
-|4,39,1,0,1630894115,"~/.gitignoew"
--'  1  0  ~/.gitignoew
-|4,39,1,0,1630894115,"~/.gitignoew"
--'  1  0  ~/.gitignoew
-|4,39,1,0,1630894115,"~/.gitignoew"
--'  1  0  ~/.gitignoew
-|4,39,1,0,1630894112,"~/.gitignoew"
--'  1  0  ~/.gitignoew
-|4,39,1,0,1630894112,"~/.gitignoew"
--'  1  0  ~/.gitignoew
-|4,39,1,0,1630894112,"~/.gitignoew"
--'  1  0  ~/.gitignoew
-|4,39,1,0,1630894112,"~/.gitignoew"
--'  1  0  ~/.gitignoew
-|4,39,1,0,1630894112,"~/.gitignoew"
--'  1  0  ~/.gitignoew
-|4,39,1,0,1630894112,"~/.gitignoew"
--'  1  0  ~/.gitignoew
-|4,39,1,0,1630894112,"~/.gitignoew"
--'  1  0  ~/.gitignoew
-|4,39,1,0,1630894112,"~/.gitignoew"
+|4,39,5,0,1630894818,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1630894818,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1630894818,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1630894818,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1630894818,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1630894818,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1630894818,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1630894818,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1630894818,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1630894818,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1630894818,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1630894818,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1630894818,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1630894818,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1630894818,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1630894818,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1630894818,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1630894818,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1630894818,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1630894818,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1630894818,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1630894818,"~/.gitconfig"
 
 # 檔案內 Mark 記錄 (由新到舊):
 
+> ~/a
+	*	1630895682	0
+	"	2	0
+	^	2	0
+	.	1	110
+	+	1	110
+
+> ~/.zshrc
+	*	1630895301	0
+	"	1	0
+	.	13	0
+	+	1	0
+	+	12	10
+	+	1	0
+	+	13	0
+
+> ~/.gitignore
+	*	1630894840	0
+	"	3	1
+	^	3	10
+	.	3	10
+	+	1	3
+	+	2	24
+	+	3	10
+
 > ~/.gitconfig
-	*	1630894425	0
-	"	5	0
+	*	1630894822	0
+	"	1	5
 	^	5	1
 	.	5	0
 	+	5	48
 	+	4	0
 	+	5	0
-
-> ~/.gitignore
-	*	1630894162	0
-	"	2	24
-	^	2	25
-	.	2	24
-	+	1	3
-	+	2	24
 
 > ~/.gitignoew
 	*	1630894114	0

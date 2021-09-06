@@ -1,2 +1,6 @@
 .ssh
 .sudo_as_admin_successful
+.gitconfig
+.cache
+.local
+.zcompdump

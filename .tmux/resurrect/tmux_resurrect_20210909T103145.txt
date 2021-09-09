@@ -1,0 +1,3 @@
+pane	0	0	1	:*	0	:/home/purecli	1	zsh	:
+window	0	0	:zsh	1	:*	b1bd,173x41,0,0,0	:
+state	0	
